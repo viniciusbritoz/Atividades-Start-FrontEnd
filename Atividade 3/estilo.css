@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+footer {
+    border-style:double;
+    border-color:chocolate;
+    background-color: darkgreen;
+}
+#cabecalho {
+        border-style:double;
+        border-color:chocolate;
+        background-color: darkgreen;
+}
+#listagem {
+    color: white;
+    display: flex;
+}
